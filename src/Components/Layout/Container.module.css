@@ -1,0 +1,13 @@
+.container{
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: white;
+    min-height: 75%;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-radius: 25px;
+    margin-bottom: 1em;
+    overflow: hidden;
+}
