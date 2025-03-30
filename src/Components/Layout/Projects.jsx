@@ -53,7 +53,17 @@ function Projects({projectsRef}){
                                                     
                                                     
                                     </div>
-                                <p className="mb-4">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
+                                <p className="mb-2">
+                                <b>CBLOLdle</b> é um jogo de adivinhação diário inspirado em jogos como 
+                                <b className="text-orange-600"> Wordle, Termo e LOLdle. </b>  
+                                Ele presta homenagem ao Campeonato Brasileiro de League of Legends, também conhecido como 
+                                <b> CBLOL.</b> </p>
+
+                                <p className="mb-2">O objetivo do CBLOLdle é adivinhar
+                                o jogador do dia por meio das dicas fornecidas a cada tentativa. 
+                                O jogo conta com um banco de dados contendo todos os jogadores que já 
+                                passaram pelo CBLOL.</p>
+                                
                                 
                             </div>
                         </section>
@@ -67,7 +77,7 @@ function Projects({projectsRef}){
             </a>
             </div>
             <div className={Styles.ContainerProject}>
-            <img src={agendaAulaLogo} className={Styles.logo} alt="cbloldlelogo"/>
+            <img src={agendaAulaLogo} className={Styles.logo} alt="agendaaulalogo"/>
             <a href="https://agendaaula.vercel.app/" target="_blank" rel="noopener noreferrer">
                 <section  >
                     <div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6 lg:pt-0">
@@ -85,7 +95,12 @@ function Projects({projectsRef}){
                                                     <SiQuarkus className="text-blue-500"/>
                                                     
                                     </div>
-                                <p className="mb-4">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
+                                <p className="mb-4">O <b>AgendaAula</b> é um software de gerenciamento de agenda para escolas. 
+                                Ele permite a criação de <b>Cronogramas Dinâmicos,</b> levando em conta a disponibilidade de 
+                                professores, alunos e salas de aula. O frontend é desenvolvido em <b className="text-orange-600">
+                                React.js</b>, enquanto o backend consiste em uma <b className="text-orange-600">API REST </b> 
+                                 construída com <b className="text-orange-600">Java Quarkus.</b> Observação: 
+                                A aplicação ainda está em desenvolvimento.</p>
                                 
                             </div>
                         </section>

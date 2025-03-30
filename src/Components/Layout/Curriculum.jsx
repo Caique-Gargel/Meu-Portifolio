@@ -42,8 +42,9 @@ function Curriculum({curriculumRef}){
                     <TimelineTime>Junho 2022</TimelineTime>
                     <TimelineTitle className=" text-sky-950">Graduação em Ciencia da Computação Pela Unoeste </TimelineTitle>
                     <TimelineBody className=" text-sky-950">
-                        Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order
-                        E-commerce & Marketing pages.
+                    Me formei em julho de 2022 como Bacharel em Ciência da Computação pela Universidade 
+                    do Oeste Paulista &#40;UNOESTE&#41;, período em que aprofundei meus 
+                    conhecimentos e desenvolvi uma paixão ainda maior pela programação.
                     </TimelineBody>
                     
                     </TimelineContent>
@@ -55,8 +56,9 @@ function Curriculum({curriculumRef}){
                     <TimelineTime>Junho 2024 - Dezembro 2024</TimelineTime>
                     <TimelineTitle className=" text-sky-950">Professor e Técnico em Informática no Centro Paula Souza </TimelineTitle>
                     <TimelineBody className=" text-sky-950">
-                        All of the pages and components are first designed in Figma and we keep a parity between the two versions
-                        even as we update the project.
+                    Fui professor e técnico de informática na Etec Dep. Francisco Franco, 
+                    pertencente ao Centro Paula Souza, onde tive a oportunidade de aprimorar 
+                    minha oratória e minha capacidade de resolução de problemas.
                     </TimelineBody>
                     </TimelineContent>
                 </TimelineItem>
@@ -68,7 +70,9 @@ function Curriculum({curriculumRef}){
                     <TimelineTime>Janeiro 2025 - Atualmente</TimelineTime>
                     <TimelineTitle className=" text-sky-950" >TBN-TI Desenvolvedor Java Backend na Caixa Economica Federal</TimelineTitle>
                     <TimelineBody className=" text-sky-950">
-                        Get started with dozens of web components and interactive elements built on top of Tailwind CSS.
+                    Participei da refatoração do Canal Digital das Loterias Caixa, 
+                    implementando microsserviços REST com Java Quarkus e desenvolvendo 
+                    testes automatizados com JUnit e Mockito.
                     </TimelineBody>
                     </TimelineContent>
                 </TimelineItem>

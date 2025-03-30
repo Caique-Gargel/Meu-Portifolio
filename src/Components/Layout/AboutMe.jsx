@@ -5,9 +5,27 @@ function AboutMe({aboutRef}){
                 
                 <h2 className=" text-4xl pl-10 tracking-tight font-extrabold text-sky-950 text-left">Sobre Mim</h2>
                 <div className="pl-25 pt-8 pr-25 text-xl text-justify">
-                <p className="mb-4 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in mauris vel ipsum ultricies sollicitudin finibus ac turpis. Etiam non facilisis metus. Proin non mauris purus. Maecenas porttitor orci metus, eu scelerisque purus rhoncus a. Sed vitae felis vitae nisi gravida lobortis. Duis quis ex ut augue sodales fermentum eu nec purus. In vitae eleifend turpis. In posuere erat sit amet imperdiet feugiat. Proin id finibus metus. In ornare augue a leo aliquet, vitae scelerisque nisi efficitur. <b className="text-red-600">Javascript, HTML, CSS, React, Node, Java e Quarkus<b/></b> </p>
-                <p className="mb-4">Morbi scelerisque sollicitudin lorem, at fringilla sapien placerat at. Sed vitae pulvinar elit. Pellentesque placerat accumsan malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur pharetra elit velit, vel molestie nisi elementum pulvinar. Duis ac purus accumsan ex tempus sodales. Phasellus non gravida quam. Mauris mollis est vel urna eleifend vulputate vel vitae nisl. Donec facilisis leo id sapien sollicitudin sollicitudin.</p>
-                <p className="">Morbi scelerisque sollicitudin lorem, at fringilla sapien placerat at. Sed vitae pulvinar elit. Pellentesque placerat accumsan malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur pharetra elit velit, vel molestie nisi elementum pulvinar. Duis ac purus accumsan ex tempus sodales. Phasellus non gravida quam. Mauris mollis est vel urna eleifend vulputate vel vitae nisl. Donec facilisis leo id sapien sollicitudin sollicitudin.</p>
+                    <p className="mb-4 ">Sou um <b className="text-orange-600">Desenvolvedor Web Full Stack</b> formado em <b className="text-orange-600">Ciência da Computação</b>, 
+                    apaixonado por criar soluções tecnológicas e sempre em busca de aprimorar minhas habilidades para enfrentar 
+                    novos desafios na programação. </p>
+                    <p className="mb-4">Me formei em Ciência da Computação pela Universidade Unoeste em 2022, adquirindo uma base sólida 
+                    em algoritmos, estruturas de dados, programação orientada a objetos e desenvolvimento de software. Durante a graduação, 
+                    participei de projetos acadêmicos que me permitiram aplicar os conhecimentos teóricos na prática.</p>
+                    <p className="mb-4">Atualmente, trabalho como <b className="text-orange-600">Desenvolvedor Java Backend</b> na <b className="text-orange-600">Caixa Econômica Federal</b>, 
+                    atuando na comunidade de loterias. Minha principal função envolve a construção de microsserviços com <b className="text-orange-600">Quarkus</b> e a 
+                    realização de testes com <b className="text-orange-600">JUnit.</b> Além disso, dedico parte do meu tempo a projetos pessoais utilizando diversas 
+                    tecnologias.</p>
+                    <p className="mb-6"><b >Estou em busca de um trabalho complementar como PJ ou oportunidades como freelancer. </b> 
+                    Esta página foi criada para apresentar alguns dos meus projetos pessoais.</p>
+                    <h2 className="mb-4 font-extrabold">Habilidades</h2>
+                    <ul className="list-disc pl-10 text-lg">
+                        <li className="mb-2"><b className="font-bold">Linguagens de programação:</b> JavaScript e Java.</li>
+                        <li className="mb-2"><b className="font-bold">Desenvolvimento front-end:</b> HTML, CSS e frameworks como Tailwind, Bootstrap e React.js.</li>
+                        <li className="mb-2"><b className="font-bold">Back-end:</b> Experiência com Quarkus e testes com JUnit.</li>
+                        <li className="mb-2"><b className="font-bold">Banco de dados:</b> Noções de SQL e bancos de dados relacionais.</li>
+                        <li className="mb-2"><b className="font-bold">Controle de versão:</b> Uso de Git e plataformas como GitHub e GitLab.</li>
+                        <li className="mb-2"><b className="font-bold">Metodologias ágeis:</b> Familiaridade com desenvolvimento ágil e colaboração em equipe.</li>
+                    </ul>
                 </div>
             </div>
         </div>
