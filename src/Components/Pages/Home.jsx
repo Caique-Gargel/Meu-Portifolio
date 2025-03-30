@@ -1,4 +1,4 @@
-import NavBar from "../Layout/NavBar"
+import NavBar from "../Layout/Navbar"
 import Container from "../Layout/Container"
 import Landing from "../Layout/Landing"
 import AboutMe from "../Layout/AboutMe"
