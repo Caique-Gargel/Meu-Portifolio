@@ -42,7 +42,7 @@ function NavBar({curriculuRef, projectsRef, aboutRef }) {
   };
   return (
     <ThemeProvider theme={customTheme}>
-    <Navbar rounded className="mb-7 bg-gray-900 p-5 sticky top-1 z-2 mt-1 rounded-xl">
+    <Navbar rounded className="mb-7 bg-gray-900 dark:bg-gray-700 p-5 sticky top-1 z-2 mt-1 rounded-xl">
     <RiCodeView className="mr-3 size-8 text-emerald-200"/>
       <NavbarBrand href="#" >
         
